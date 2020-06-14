@@ -1,0 +1,19 @@
+{
+  "name": "hakos",
+  "version": "0.0.0",
+  "description": "what am I doing ?",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "kosh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "electron": "^8.3.1",
+    "electron-builder": "^22.7.0"
+  }
+}

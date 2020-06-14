@@ -1,0 +1,13 @@
+.writebox{
+    height: 100%;
+    margin: 25px 20px 20px 20px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+
+    border:none;
+    outline: none;
+}
+
+.writebox::-webkit-scrollbar {
+    display:none;
+}
